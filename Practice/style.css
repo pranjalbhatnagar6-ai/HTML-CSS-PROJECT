@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    background-color: lightskyblue;
+    border: 10px solid rgb(12, 116, 71);
+}
+.content{
+    /* width = 100%; */
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.header{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 100px;
+    
+}
