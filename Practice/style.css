@@ -20,5 +20,16 @@
     display: flex;
     justify-content:space-between;
     margin-top: 100px;
+    align-items: flex-end;
+    
+}
+
+.header h1{
+    text-align: end;
+}
+
+.image_content img{
+    width: ;
+    height: ;
     
 }
