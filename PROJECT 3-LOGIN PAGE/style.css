@@ -10,7 +10,6 @@ body {
   align-items: center; /*doubt 1*/
   min-height: 100vh; /*doubt*/
   background : url("lappi.jpg") no-repeat;
-  /* background : url("couple-bus-sunset.jpg") no-repeat; */
   background-size: cover;
   background-position: center;
   
